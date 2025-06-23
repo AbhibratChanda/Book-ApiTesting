@@ -36,6 +36,9 @@ The API exposes the following endpoints:
 - Maven
 - MySQL running locally on port 3306 with a database named `bookdb`
 
+📸 Test Coverage
+![image alt](https://github.com/AbhibratChanda/Book-ApiTesting/blob/bba50f3ac6c6a668a743ea24943bf7b75f699ef6/Screenshot%202025-06-24%20042527.png?raw=true)
+
 ### 🏃 Run the application:
 ```bash
 mvn spring-boot:run
@@ -45,5 +48,3 @@ Open the test class in the editor.
 Right-click anywhere inside the file.
 Select Run As → JUnit Test.
 
-📸 Test Coverage
-![image alt](https://github.com/AbhibratChanda/Book-ApiTesting/blob/bba50f3ac6c6a668a743ea24943bf7b75f699ef6/Screenshot%202025-06-24%20042527.png?raw=true)
