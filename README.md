@@ -46,7 +46,4 @@ Right-click anywhere inside the file.
 Select Run As → JUnit Test.
 
 📸 Test Coverage
-<img width="959" alt="Screenshot 2025-06-24 042527" src="https://github.com/user-attachments/assets/763b8d7d-920c-41e5-8db1-640aab3a5ece" />
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/49e77483-b564-4f52-ac16-b7817b3fd2db" />
-
-
+![image alt](https://github.com/AbhibratChanda/Book-ApiTesting/blob/bba50f3ac6c6a668a743ea24943bf7b75f699ef6/Screenshot%202025-06-24%20042527.png?raw=true)
