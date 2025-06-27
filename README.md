@@ -48,3 +48,11 @@ Open the test class in the editor.
 Right-click anywhere inside the file.
 Select Run As → JUnit Test.
 
+```
+### AI Testing Using Keploy Extension:
+![image alt](https://github.com/AbhibratChanda/Book-ApiTesting/blob/main/Screenshot%202025-06-28%20014057.png?raw=true)
+![image alt](https://github.com/AbhibratChanda/Book-ApiTesting/blob/main/Screenshot%202025-06-28%20012944.png?raw=true)
+
+
+
+
